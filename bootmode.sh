@@ -1,0 +1,1 @@
+sudo ~/Documents/CarThing/superbird-tool/superbird_tool.py --find_device && sudo ~/Documents/CarThing/superbird-tool/superbird_tool.py --burn_mode && sudo ~/Documents/CarThing/superbird-tool/superbird_tool.py --enable_burn_mode
